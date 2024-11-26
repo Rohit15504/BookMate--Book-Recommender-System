@@ -1,7 +1,7 @@
 # 📚 BookMate - Book Recommender System
 
 <p align="center">
-  <a href="https://bookmate-book-recommender-system.onrender.com" target="_blank">🔗 Visit BookMate Here</a>
+  <a href="https://bookmate-book-recommender-system.onrender.com">🔗 Visit BookMate Here</a>
 </p>
 
 BookMate is an intelligent book recommendation system designed to help users discover books tailored to their preferences.
